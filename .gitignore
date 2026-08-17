@@ -1,0 +1,17 @@
+# python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# environments / secrets
+.env
+
+# editor
+.vscode/
+.idea/
+.DS_Store
+
+# regenerable outputs
+deliberation/*/figures/
+deliberation/synthetic_drift/results/
+paper/figures/*.pdf
