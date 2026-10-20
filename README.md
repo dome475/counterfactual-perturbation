@@ -4,7 +4,7 @@
 
 Dominic Behling · University of Tübingen
 
-Accepted at the **AI Transparency Conference (AITC 2026)** for **oral presentation**; final version in press.
+Accepted at the **AI Transparency Conference (AITC 2026)** for **oral presentation**.
 📄 [Paper PDF](paper/counterfactual_preference_perturbation.pdf)
 
 <p align="center">
